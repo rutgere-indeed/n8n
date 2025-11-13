@@ -1,0 +1,19 @@
+{
+	"node": "n8n-nodes-base.avro",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Data Transformation"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.confluent.io/platform/current/schema-registry/index.html"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://avro.apache.org/docs/current/"
+			}
+		]
+	},
+	"alias": ["decode", "schema registry", "confluent"]
+}
